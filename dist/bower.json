@@ -1,0 +1,19 @@
+{
+  "name": "dist",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sydneyjlindsay/jquery-contact-form",
+  "authors": [
+    "Sydney Lindsay <sydneyjlindsay@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
